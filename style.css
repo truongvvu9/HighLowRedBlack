@@ -1,0 +1,229 @@
+/*index */
+
+#Hard {
+    width: 5%;
+    height: 7%;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+}
+
+#Easy {
+    width: 5%;
+    height: 7%;
+    position: absolute;
+    top: 40%;
+    left: 43%;
+
+}
+
+.Choose {
+    width: 10%;
+    height: 7%;
+    position: absolute;
+    top: 32%;
+    left: 45%;
+    font-size: large;
+
+}
+
+.Welcome {
+    width: 10%;
+    height: 7%;
+    position: absolute;
+    top: 0.5%;
+    left: 44%;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+
+.FaceDown {
+    width: 6%;
+    height: 18%;
+    position: absolute;
+    top: 37%;
+    left: 45%;
+}
+
+/*easy mode */
+.AskHighOrLowRedBlack {
+    width: 20%;
+    height: 5%;
+    position: absolute;
+    top: 10%;
+    left: 45%;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+
+.ShufflingStatus {
+    width: 5%;
+    height: 5%;
+    position: absolute;
+    top: 20%;
+    left: 45%;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#TopCardFaceDown {
+    width: 6%;
+    height: 18%;
+    position: absolute;
+    top: 40%;
+    left: 45%;
+}
+
+#NextCardFaceDown {
+    width: 6%;
+    height: 18%;
+    position: absolute;
+    top: 75%;
+    left: 45%;
+
+}
+
+.shuffleDeck {
+    width: 7%;
+    height: 5%;
+    position: absolute;
+    top: 38%;
+    left: 60%;
+
+}
+
+.cutDeck {
+    width: 7%;
+    height: 5%;
+    position: absolute;
+    top: 44%;
+    left: 60%;
+
+}
+
+.flipTopCard {
+    width: 7%;
+    height: 5%;
+    position: absolute;
+    top: 50%;
+    left: 60%;
+
+}
+
+.nextRound {
+    width: 7%;
+    height: 5%;
+    position: absolute;
+    top: 56%;
+    left: 60%;
+}
+
+.startGame {
+    width: 7%;
+    height: 5%;
+    position: absolute;
+    top: 32%;
+    left: 60%;
+
+}
+
+.TopCard {
+    width: 5%;
+    height: 5%;
+    position: absolute;
+    top: 40%;
+    left: 35%;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.NextCard {
+    width: 5%;
+    height: 5%;
+    position: absolute;
+    top: 75%;
+    left: 35%;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.firstChoice {
+    width: 7%;
+    height: 5%;
+    position: absolute;
+    top: 65%;
+    left: 34%;
+}
+
+.secondChoice {
+    width: 7%;
+    height: 5%;
+    position: absolute;
+    top: 65%;
+    left: 55%;
+}
+
+.Score {
+    width: 5%;
+    height: 5%;
+    position: absolute;
+    top: 10%;
+    left: 25%;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+
+.ScoreColon {
+    width: 5%;
+    height: 5%;
+    position: absolute;
+    top: 10%;
+    left: 15%;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+
+.CardsLeftColon {
+    width: 5%;
+    height: 5%;
+    position: absolute;
+    top: 20%;
+    left: 15%;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+
+.CardsLeft {
+    width: 5%;
+    height: 5%;
+    position: absolute;
+    top: 26%;
+    left: 20.5%;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+
+
+.winRound {
+    color: green;
+}
+
+
+body {
+    background-color: darkkhaki;
+}
